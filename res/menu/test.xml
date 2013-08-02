@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group  android:checkableBehavior="none">
+    <item android:id="@+id/start" android:title="开始">
+    </item>
+    <item android:id="@+id/end" android:title="结束">
+    </item>
+</group>
+<group>
+    <item android:id="@+id/red" android:title="红色背景"></item>
+    <item android:id="@+id/green" android:title="绿色背景"></item>
+    <item android:id="@+id/blue" android:title="蓝色背景"></item>
+</group>
+</menu>
